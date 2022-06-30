@@ -58,12 +58,19 @@
     margin-bottom: 0px;
 }
 
+.daohang > div:hover {
+    background-color: white;
+    /*设置字体颜色*/
+    color: rgb(230, 145, 55);
+}
+
 .daohang > div:nth-child(1) {
     border-style: dashed;
     border-color: #2F2D32FF #2F2D32FF #2F2D32FF #2F2D32FF;
     font-family: 楷体;
     font-size: 30px;
 }
+
 
 .daohang > div:nth-child(2) {
     border-style: dashed;
