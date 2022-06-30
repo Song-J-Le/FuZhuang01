@@ -1,0 +1,9 @@
+.works{
+    width: 1500px;
+    background-image: url("../img/bg3.jpg");
+    margin-top: 30px;
+    color: white;
+}
+.works>div:nth-child(1){
+    color: black;
+}
