@@ -1,9 +1,19 @@
-.works{
+.works {
     width: 1500px;
     background-image: url("../img/bg3.jpg");
     margin-top: 30px;
     color: white;
 }
-.works>div:nth-child(1){
+
+.works > div:nth-child(1) {
     color: black;
+}
+
+.works-1 >div:nth-child(1){
+    width: 200px;
+    height: 150px;
+    background-color: rgb(47, 45, 50);
+    font-size: 20px;
+    position: center;
+    left: 20px;
 }
